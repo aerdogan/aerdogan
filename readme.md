@@ -20,7 +20,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aerdogan&show_icons=true&locale=en" alt="aerdogan" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aerdogan&" alt="aerdogan" />
 </p>
 
