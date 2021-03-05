@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aerdogan&show_icons=true&locale=en" alt="aerdogan" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aerdogan&" alt="aerdogan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aerdogan&" alt="aerdogan" width="500" height="300"/>
 </p>
 
 
