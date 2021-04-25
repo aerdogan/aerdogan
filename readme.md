@@ -22,15 +22,3 @@
     <code><img height="30" src="https://user-images.githubusercontent.com/193318/115991501-56539c00-a5d1-11eb-8d16-39f0ca220135.png"></code>
     <code><img height="30" src="https://user-images.githubusercontent.com/193318/115991453-1f7d8600-a5d1-11eb-8325-df28319ac897.png"></code>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aerdogan&label=Profile%20views&color=0e75b6&style=onedark" alt="aerdogan" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aerdogan&show_icons=true&locale=en&layout=compact" alt="aerdogan" /> 
-</p>
-
-
-
-
