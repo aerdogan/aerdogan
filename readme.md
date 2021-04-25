@@ -14,3 +14,7 @@
 </p>
 
 
+
+<a href="https://github.com/aerdogan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.aerdogan1.vercel.app/api/pin/?username=aerdogan&repo=github-readme-stats&theme=material-palenight" />
+</a> 
