@@ -8,7 +8,6 @@
 
 <p align="center">   
     <code><img height="30" src="https://user-images.githubusercontent.com/193318/115978227-9a6d7f00-a586-11eb-9f74-eccd5de70f1f.png"></code>
-    <code><img height="30" src="https://user-images.githubusercontent.com/193318/115978329-18ca2100-a587-11eb-8341-cb1c38a9bcdc.png"></code>
     <code><img height="30" src="https://user-images.githubusercontent.com/193318/115978347-47e09280-a587-11eb-9000-60f6f2a84928.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
