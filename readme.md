@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Turkey</h3>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3&margin-w=5&margin-h=5" alt="aerdogan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3&margin-w=20&margin-h=20" alt="aerdogan" />
 </p>
 
 
