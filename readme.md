@@ -2,11 +2,7 @@
 <h3 align="center">A software developer from Turkey</h3>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="aerdogan" />
-</p>
-
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="aerdogan" />
 </p>
 
 <p align="center">   
