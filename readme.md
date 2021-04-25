@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="aerdogan" />
+  <img src="https://komarev.com/ghpvc/?username=aerdogan&label=Profile%20views&color=0e75b6&style=onedark" alt="aerdogan" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
