@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmet Erdoğan</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&column=4&margin-w=15&margin-h=15" alt="aerdogan" />
+</p>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark" alt="aerdogan" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aerdogan&label=Profile%20views&color=0e75b6&style=onedark" alt="aerdogan" />
