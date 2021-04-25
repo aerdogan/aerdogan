@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ahmet Erdoğan</h1>
-<h3 align="center">A software developer from Turkey</h3>
-
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="aerdogan" />
 </p>
