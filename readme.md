@@ -5,7 +5,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&column=3&margin-w=20&margin-h=20" alt="aerdogan" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <p align="center">   
     <code><img height="30" src="https://user-images.githubusercontent.com/193318/115978227-9a6d7f00-a586-11eb-9f74-eccd5de70f1f.png"></code>
