@@ -7,14 +7,14 @@
 
 
 <p align="center">   
-    <code><img height="20" src="https://user-images.githubusercontent.com/193318/115978111-07344980-a586-11eb-96d0-b47f73b9465a.png"></code>
-    <code><img height="20" src="https://user-images.githubusercontent.com/193318/115978015-76f60480-a585-11eb-9ab7-7c3ba71c325d.png"></code> 
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="20" src="https://user-images.githubusercontent.com/193318/115977656-87f14680-a582-11eb-802d-78cc4ac1c93d.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img height="30" src="https://user-images.githubusercontent.com/193318/115978111-07344980-a586-11eb-96d0-b47f73b9465a.png"></code>
+    <code><img height="30" src="https://user-images.githubusercontent.com/193318/115978015-76f60480-a585-11eb-9ab7-7c3ba71c325d.png"></code> 
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+    <code><img height="30" src="https://user-images.githubusercontent.com/193318/115977656-87f14680-a582-11eb-802d-78cc4ac1c93d.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </p>
 
 <p align="center">
