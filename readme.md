@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark&rank=S,AAA,AA" alt="aerdogan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=onedark&rank=SSS, SS, S,AAA,AA" alt="aerdogan" />
 </p>
 
 <p align="center">
