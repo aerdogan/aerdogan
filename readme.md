@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=gruvbox&margin-w=5" alt="aerdogan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5" alt="aerdogan" />
 </p>
 
 <p align="center">   
