@@ -2,8 +2,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aerdogan&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=2&column=4" alt="aerdogan" />
 </p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
 <p align="center">   
     <code><img height="30" src="https://user-images.githubusercontent.com/193318/115978347-47e09280-a587-11eb-9000-60f6f2a84928.png"></code>
     <code><img height="30" src="https://user-images.githubusercontent.com/193318/115978543-bffb8800-a588-11eb-8ebd-f06e4a188793.png"></code>
